@@ -158,23 +158,23 @@ Provides geographical and logistics insights.
 
 ### Executive Dashboard
 
-![Executive](Images/Executive.png)
+![Executive](Image/Executive.png)
 
 ### Sales Analytics
 
-![Sales](Images/Sales.png)
+![Sales](Image/Sales.png)
 
 ### Customer Analytics
 
-![Customer](Images/Customer.png)
+![Customer](Image/Customer.png)
 
 ### Product Analytics
 
-![Product](Images/Product.png)
+![Product](Image/Product.png)
 
 ### Regional Analytics
 
-![Regional](Images/Regional.png)
+![Regional](Image/Regional.png)
 
 ---
 
