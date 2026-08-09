@@ -198,8 +198,6 @@ Provides geographical and logistics insights.
 Dashboard/
 Dataset/
 Images/
-Theme/
-DAX Measures/
 README.md
 LICENSE
 ```
